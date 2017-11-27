@@ -1,0 +1,5 @@
+Eclipse IDE (Oxygen build, Oct 2017)
+- https://www.eclipse.org/downloads/packages/release/Oxygen/1A
+
+Comprehensive Official Tutorials
+- https://docs.oracle.com/javase/tutorial/

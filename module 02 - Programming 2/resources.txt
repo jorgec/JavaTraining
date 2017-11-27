@@ -1,0 +1,13 @@
+GUI/Swing
+
+Window Builder Pro
+- https://www.eclipse.org/windowbuilder/download.php
+
+Creating a GUI With JFC/Swing
+- https://docs.oracle.com/javase/tutorial/uiswing/index.html
+
+A Visual Guide to Swing Layout Managers
+= https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html
+
+A Visual Guide to Swing Components
+- http://web.mit.edu/6.005/www/sp14/psets/ps4/java-6-tutorial/components.html
