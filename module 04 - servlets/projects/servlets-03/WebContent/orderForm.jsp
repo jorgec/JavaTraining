@@ -4,7 +4,7 @@
 		<fieldset>
 			<legend>Order Form</legend>
 			<div class="form-group">
-				<label for="first_name">First Name</label> <input type="email"
+				<label for="first_name">First Name</label> <input type="text"
 					class="form-control" id="first_name" name="first_name"
 					placeholder="Juan" required>
 			</div>
