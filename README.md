@@ -21,3 +21,7 @@ Database interaction with MySQL via JDBC
 Module 4
 -------------
 Building web applications with servlets and JSP on top of Apache Tomcat
+
+### Planned for Module 5
+-------------
+Modern web applications
